@@ -1,4 +1,4 @@
-# uirapuru
+# Quarkus Uirapuru
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
